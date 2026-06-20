@@ -1,3 +1,2 @@
 Mini CRM Project
-Version 2
-
+Version 1
